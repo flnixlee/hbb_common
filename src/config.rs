@@ -106,7 +106,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["flnix.cn"];
-pub const RS_PUB_KEY: &str = "flnixlee@56";
+pub const RS_PUB_KEY: &str = "flnixlee@wt56";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
